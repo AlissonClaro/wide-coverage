@@ -6,7 +6,7 @@
 <h2>Projeito feito em aula referente a <a href="https://aulas.devclub.com.br">DevClub</a></h2>
 <br>
 <h2>Imagens do projeto</h2>
-<img src="img/we-care-wide.png">
+<img src="img/wide-coverage-wide.png">
 <br>
 <h2>Imagens do projeto mobile</h2>
-<img src="img/we-care-cell.png">
+<img src="img/wide-coverage-cee.png">
