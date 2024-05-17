@@ -109,7 +109,7 @@ main {
         height: 31px; /* Altura do botão */
         position: absolute; /* Posicionamento absoluto em relação ao seu contêiner mais próximo com posição relativa/absoluta/fixa */
         right: 0%; /* Alinha o botão à direita do contêiner */
-        margin-right: 10px; /* Margem à direita do botão */
+        margin-right: 20px; /* Margem à direita do botão */
         top: 8px; /* Posição do topo do botão */
     }
 
@@ -126,8 +126,8 @@ main {
         width: 100%; /* Largura ocupa 100% do contêiner pai */
         height: 60vh; /* Altura é 60% da altura da viewport */
         position: relative; /* Posicionamento relativo */
-        top: -30px; /* Desloca o 'main' 30px para cima */
-        transform: translateY(-58%); /* Desloca o 'main' para cima em 58% de sua própria altura */
+        top: -60px; /* Desloca o 'main' 60px para cima */
+        transform: translateY(-70%); /* Desloca o 'main' para cima em 58% de sua própria altura */
     }
 
     /* Estiliza o texto do título */
@@ -155,8 +155,7 @@ main {
         height: 288px; /* Altura da imagem */
         margin: auto; /* Margem automática para centralizar a imagem */
         display: block; /* Exibe a imagem como um bloco */
-        top: 50px; /* Posição do topo da imagem */
-        transform: translateY(120%); /* Desloca a imagem para baixo em 120% de sua própria altura */
+        transform: translateY(100%); /* Desloca a imagem para baixo em 120% de sua própria altura */
     }
 
     /* Estiliza o rodapé do texto */
