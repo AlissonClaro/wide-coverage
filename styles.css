@@ -126,7 +126,7 @@ main {
         width: 100%; /* Largura ocupa 100% do contêiner pai */
         height: 60vh; /* Altura é 60% da altura da viewport */
         position: relative; /* Posicionamento relativo */
-        top: -60px; /* Desloca o 'main' 60px para cima */
+        top: 0px; /* Desloca o 'main' 0px para cima */
         transform: translateY(-70%); /* Desloca o 'main' para cima em 58% de sua própria altura */
     }
 
